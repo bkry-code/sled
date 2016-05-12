@@ -9,7 +9,7 @@ Sled is a free blog theme for Kirby CMS (<http://getkirby.com>). Currently it su
 
 ## Installation
 
-The easiest way to install Weddings Bells and Kirby is to run the following command in your terminal:
+The easiest way to install Sled and Kirby is to run the following command in your terminal:
 
 ``git clone --recursive https://github.com/lauriiii/sled.git``
 
