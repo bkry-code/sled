@@ -1,0 +1,20 @@
+Title: Sled Theme
+----
+Author: Lauri Liimatta
+----
+Description: Ice cool blogging theme for Kirby CMS
+----
+Keywords: Kirby, theme, blogging
+----
+Copyright: © (date: Year) (link: http://lauriliimatta.com text: Lauri Liimatta)
+----
+Blogroll:
+-
+	title: Kirby
+	url: http://getkirby.com
+-
+	title: Kirby support
+	url: http://getkirby.com/support
+- 
+	title: Lauri Liimatta
+	url: http://lauriliimatta.com
